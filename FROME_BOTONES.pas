@@ -8,10 +8,10 @@ uses
 
 type
   TForm3 = class(TForm)
-    Button1: TButton;
-    Button2: TButton;
-    Button3: TButton;
-    Button4: TButton;
+    Button1: 1;
+    Button2: 2;
+    Button3: 3;
+    Button4: 4;
   private
     { Private declarations }
   public
