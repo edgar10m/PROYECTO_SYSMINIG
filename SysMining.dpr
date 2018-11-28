@@ -110,7 +110,8 @@ uses
   FRIMER_FROME in 'FRIMER_FROME.pas' {Form2},
   PRIMER_MODULO in 'PRIMER_MODULO.pas' {DataModule1: TDataModule},
   SEGUNDO_MODULO in 'SEGUNDO_MODULO.pas' {DataModule2: TDataModule},
-  FROME_ETIQUETAS in 'FROME_ETIQUETAS.pas' {Form3};
+  FROME_ETIQUETAS in 'FROME_ETIQUETAS.pas' {Form3},
+  MODULO_LISTAS in 'MODULO_LISTAS.pas' {DataModule3: TDataModule};
 
 {$R *.res}
 begin
@@ -125,6 +126,7 @@ begin
   Application.CreateForm(TDataModule1, DataModule1);
   Application.CreateForm(TDataModule2, DataModule2);
   Application.CreateForm(TForm3, Form3);
+  Application.CreateForm(TDataModule3, DataModule3);
   Application.Run;
    //  ExitProcess(UINT(-1));
    //  exitprocess(0);
