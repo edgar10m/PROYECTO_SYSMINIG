@@ -27,4 +27,13 @@ object Form2: TForm2
     Height = 13
     Caption = 'Label2'
   end
+  object Memo1: TMemo
+    Left = 104
+    Top = 176
+    Width = 185
+    Height = 89
+    Lines.Strings = (
+      'Memo1')
+    TabOrder = 0
+  end
 end
