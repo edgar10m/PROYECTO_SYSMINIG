@@ -8,8 +8,8 @@ uses
 
 type
   TForm4 = class(TForm)
-    Edit1: TEdit;
-    Edit2: TEdit;
+    Edit1: titulo 1;
+    Edit2: titulo 2;
   private
     { Private declarations }
   public
