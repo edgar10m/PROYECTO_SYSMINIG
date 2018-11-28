@@ -106,7 +106,8 @@ uses
   alkDocWord in 'alkDocWord.pas' {alkFormDocWord},
   fptpar in 'fptpar.pas' {ftsparametros},
   alkBrowse in 'alkBrowse.pas' {alkFormBrowse},
-  formulario in 'Z:\Unidad 2\Documentos\SysMining\SysMining_Proyect\formulario.pas' {Form1};
+  formulario in '..\SysMining_Proyect\formulario.pas' {Form1},
+  FRIMER_FROME in 'FRIMER_FROME.pas' {Form2};
 
 {$R *.res}
 begin
@@ -117,6 +118,7 @@ begin
   Application.CreateForm(Tftsmain, ftsmain);
   Application.CreateForm(Tgral, gral);
   Application.CreateForm(TForm1, Form1);
+  Application.CreateForm(TForm2, Form2);
   Application.Run;
    //  ExitProcess(UINT(-1));
    //  exitprocess(0);
