@@ -1,4 +1,4 @@
-unit FROME_BOTONES;
+unit FROME_CAJAS;
 
 interface
 
@@ -7,11 +7,9 @@ uses
   Dialogs, StdCtrls;
 
 type
-  TForm3 = class(TForm)
-    Button1: TButton;
-    Button2: TButton;
-    Button3: TButton;
-    Button4: TButton;
+  TForm4 = class(TForm)
+    Edit1: TEdit;
+    Edit2: TEdit;
   private
     { Private declarations }
   public
@@ -19,7 +17,7 @@ type
   end;
 
 var
-  Form3: TForm3;
+  Form4: TForm4;
 
 implementation
 
