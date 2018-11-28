@@ -1,0 +1,396 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{85614DA2-4126-45E0-9A80-5F65C5DA9318}</ProjectGuid>
+        <MainSource>SysMining.dpr</MainSource>
+        <Base>True</Base>
+        <Config Condition="'$(Config)'==''">Debug</Config>
+        <TargetedPlatforms>1153</TargetedPlatforms>
+        <AppType>Application</AppType>
+        <FrameworkType>VCL</FrameworkType>
+        <ProjectVersion>18.4</ProjectVersion>
+        <Platform Condition="'$(Platform)'==''">Win32</Platform>
+    </PropertyGroup>
+    <PropertyGroup Condition="'$(Config)'=='Base' or '$(Base)'!=''">
+        <Base>true</Base>
+    </PropertyGroup>
+    <PropertyGroup Condition="('$(Platform)'=='Win32' and '$(Base)'=='true') or '$(Base_Win32)'!=''">
+        <Base_Win32>true</Base_Win32>
+        <CfgParent>Base</CfgParent>
+        <Base>true</Base>
+    </PropertyGroup>
+    <PropertyGroup Condition="('$(Platform)'=='Win64' and '$(Base)'=='true') or '$(Base_Win64)'!=''">
+        <Base_Win64>true</Base_Win64>
+        <CfgParent>Base</CfgParent>
+        <Base>true</Base>
+    </PropertyGroup>
+    <PropertyGroup Condition="'$(Config)'=='Release' or '$(Cfg_1)'!=''">
+        <Cfg_1>true</Cfg_1>
+        <CfgParent>Base</CfgParent>
+        <Base>true</Base>
+    </PropertyGroup>
+    <PropertyGroup Condition="('$(Platform)'=='Win32' and '$(Cfg_1)'=='true') or '$(Cfg_1_Win32)'!=''">
+        <Cfg_1_Win32>true</Cfg_1_Win32>
+        <CfgParent>Cfg_1</CfgParent>
+        <Cfg_1>true</Cfg_1>
+        <Base>true</Base>
+    </PropertyGroup>
+    <PropertyGroup Condition="'$(Config)'=='Debug' or '$(Cfg_2)'!=''">
+        <Cfg_2>true</Cfg_2>
+        <CfgParent>Base</CfgParent>
+        <Base>true</Base>
+    </PropertyGroup>
+    <PropertyGroup Condition="('$(Platform)'=='Win32' and '$(Cfg_2)'=='true') or '$(Cfg_2_Win32)'!=''">
+        <Cfg_2_Win32>true</Cfg_2_Win32>
+        <CfgParent>Cfg_2</CfgParent>
+        <Cfg_2>true</Cfg_2>
+        <Base>true</Base>
+    </PropertyGroup>
+    <PropertyGroup Condition="'$(Base)'!=''">
+        <DCC_E>false</DCC_E>
+        <DCC_F>false</DCC_F>
+        <DCC_K>false</DCC_K>
+        <DCC_N>true</DCC_N>
+        <DCC_S>false</DCC_S>
+        <DCC_ImageBase>00400000</DCC_ImageBase>
+        <DCC_DebugInformation>1</DCC_DebugInformation>
+        <DCC_SymbolReferenceInfo>1</DCC_SymbolReferenceInfo>
+        <DCC_DcuOutput>C:\Sysmining_fuentes\DCU</DCC_DcuOutput>
+        <DCC_UsePackage>vcl;rtl;vclx;indy;inet;xmlrtl;vclie;inetdbbde;inetdbxpress;dbrtl;dsnap;dsnapcon;vcldb;soaprtl;VclSmp;dbexpress;dbxcds;inetdb;bdertl;vcldbx;webdsnap;websnap;adortl;ibxpress;teeui;teedb;tee;dss;visualclx;visualdbclx;vclactnband;vclshlctrls;IntrawebDB_50_70;Intraweb_50_70;Rave50CLX;Rave50VCL;dclOfficeXP;cxLibraryVCLD7;cxPageControlVCLD7;dxBarD7;dxComnD7;dxBarDBNavD7;dxBarExtItemsD7;dxBarExtDBItemsD7;dxsbD7;dxDockingD7;dxdbtrD7;dxtrmdD7;dxmdsD7;dxorgcD7;dxdborD7;cxEditorsVCLD7;dxThemeD7;cxDataD7;cxExtEditorsVCLD7;cxGridVCLD7;cxGridUtilsVCLD7;dxNavBarD7;dxPSCoreD7;dxPsPrVwAdvD7;dxPSLnksD7;dxPSTeeChartD7;dxPSDBTeeChartD7;dxPSdxDBTVLnkD7;dxPSdxOCLnkD7;dxPSdxDBOCLnkD7;dxPScxCommonD7;dxPScxExtCommonD7;dxPScxGridLnkD7;dxPScxPCProdD7;cxCommonEditingVCLD7;cxTreeListVCLD7;adgrm7;QR5RunD7;$(DCC_UsePackage)</DCC_UsePackage>
+        <DCC_UNSAFE_TYPE>true</DCC_UNSAFE_TYPE>
+        <DCC_UNSAFE_CODE>true</DCC_UNSAFE_CODE>
+        <DCC_UNSAFE_CAST>true</DCC_UNSAFE_CAST>
+        <SanitizedProjectName>SysMining</SanitizedProjectName>
+        <DCC_Namespace>Vcl;Vcl.Imaging;Vcl.Touch;Vcl.Samples;Vcl.Shell;System;Xml;Data;Datasnap;Web;Soap;Winapi;Data.Win;System.Win;$(DCC_Namespace)</DCC_Namespace>
+        <VerInfo_Locale>2058</VerInfo_Locale>
+        <VerInfo_Keys>FileVersion=1.0.0.0</VerInfo_Keys>
+    </PropertyGroup>
+    <PropertyGroup Condition="'$(Base_Win32)'!=''">
+        <DCC_Namespace>Winapi;System.Win;Data.Win;Datasnap.Win;Web.Win;Soap.Win;Xml.Win;Bde;$(DCC_Namespace)</DCC_Namespace>
+        <BT_BuildType>Debug</BT_BuildType>
+        <VerInfo_IncludeVerInfo>true</VerInfo_IncludeVerInfo>
+        <VerInfo_Keys>CompanyName=;FileDescription=$(MSBuildProjectName);FileVersion=1.0.0.0;InternalName=;LegalCopyright=;LegalTrademarks=;OriginalFilename=;ProductName=$(MSBuildProjectName);ProductVersion=1.0.0.0;Comments=;ProgramID=com.embarcadero.$(MSBuildProjectName)</VerInfo_Keys>
+        <VerInfo_Locale>1033</VerInfo_Locale>
+        <Manifest_File>$(BDS)\bin\default_app.manifest</Manifest_File>
+        <Icon_MainIcon>SysMining_Icon.ico</Icon_MainIcon>
+        <AppEnableRuntimeThemes>true</AppEnableRuntimeThemes>
+        <UWP_DelphiLogo44>$(BDS)\bin\Artwork\Windows\UWP\delphi_UwpDefault_44.png</UWP_DelphiLogo44>
+        <UWP_DelphiLogo150>$(BDS)\bin\Artwork\Windows\UWP\delphi_UwpDefault_150.png</UWP_DelphiLogo150>
+    </PropertyGroup>
+    <PropertyGroup Condition="'$(Base_Win64)'!=''">
+        <Icon_MainIcon>SysMining_Icon.ico</Icon_MainIcon>
+        <UWP_DelphiLogo44>$(BDS)\bin\Artwork\Windows\UWP\delphi_UwpDefault_44.png</UWP_DelphiLogo44>
+        <UWP_DelphiLogo150>$(BDS)\bin\Artwork\Windows\UWP\delphi_UwpDefault_150.png</UWP_DelphiLogo150>
+    </PropertyGroup>
+    <PropertyGroup Condition="'$(Cfg_1)'!=''">
+        <DCC_Define>RELEASE;$(DCC_Define)</DCC_Define>
+        <DCC_DebugInformation>0</DCC_DebugInformation>
+        <DCC_LocalDebugSymbols>false</DCC_LocalDebugSymbols>
+        <DCC_SymbolReferenceInfo>0</DCC_SymbolReferenceInfo>
+    </PropertyGroup>
+    <PropertyGroup Condition="'$(Cfg_1_Win32)'!=''">
+        <AppEnableRuntimeThemes>true</AppEnableRuntimeThemes>
+        <AppEnableHighDPI>true</AppEnableHighDPI>
+    </PropertyGroup>
+    <PropertyGroup Condition="'$(Cfg_2)'!=''">
+        <DCC_Define>DEBUG;$(DCC_Define)</DCC_Define>
+        <DCC_Optimize>false</DCC_Optimize>
+        <DCC_GenerateStackFrames>true</DCC_GenerateStackFrames>
+    </PropertyGroup>
+    <PropertyGroup Condition="'$(Cfg_2_Win32)'!=''">
+        <AppEnableRuntimeThemes>true</AppEnableRuntimeThemes>
+        <AppEnableHighDPI>true</AppEnableHighDPI>
+    </PropertyGroup>
+    <ItemGroup>
+        <DelphiCompile Include="$(MainSource)">
+            <MainSource>MainSource</MainSource>
+        </DelphiCompile>
+        <DCCReference Include="ptsmain.pas">
+            <Form>ftsmain</Form>
+        </DCCReference>
+        <DCCReference Include="ptsdm.pas">
+            <Form>dm</Form>
+            <DesignClass>TDataModule</DesignClass>
+        </DCCReference>
+        <DCCReference Include="mgserial.pas"/>
+        <DCCReference Include="pcatalog.pas">
+            <Form>fcatalog</Form>
+        </DCCReference>
+        <DCCReference Include="pbrowse.pas">
+            <Form>fbrowse</Form>
+        </DCCReference>
+        <DCCReference Include="ppasswrd.pas">
+            <Form>fpasswrd</Form>
+        </DCCReference>
+        <DCCReference Include="ptsrecibe.pas">
+            <Form>ftsrecibe</Form>
+        </DCCReference>
+        <DCCReference Include="ptsutileria.pas">
+            <Form>ftsutileria</Form>
+        </DCCReference>
+        <DCCReference Include="parbol.pas">
+            <Form>farbol</Form>
+        </DCCReference>
+        <DCCReference Include="svsdelphi.pas">
+            <Form>fsvsdelphi</Form>
+        </DCCReference>
+        <DCCReference Include="psvsfmb.pas">
+            <Form>fsvsfmb</Form>
+        </DCCReference>
+        <DCCReference Include="ptsdiagjcl.pas">
+            <Form>ftsdiagjcl</Form>
+        </DCCReference>
+        <DCCReference Include="ptsdiagramas.pas"/>
+        <DCCReference Include="ptspanel.pas">
+            <Form>ftspanel</Form>
+        </DCCReference>
+        <DCCReference Include="ptsmapanat.pas">
+            <Form>ftsmapanat</Form>
+        </DCCReference>
+        <DCCReference Include="facerca.pas">
+            <Form>facerc</Form>
+        </DCCReference>
+        <DCCReference Include="mgflcob.pas">
+            <Form>fmgflcob</Form>
+        </DCCReference>
+        <DCCReference Include="mgcodigo.pas">
+            <Form>fmgcodigo</Form>
+        </DCCReference>
+        <DCCReference Include="mgfrcob.pas">
+            <Form>frcob</Form>
+            <DesignClass>TFrame</DesignClass>
+        </DCCReference>
+        <DCCReference Include="ptsproperty.pas">
+            <Form>ftsproperty</Form>
+        </DCCReference>
+        <DCCReference Include="ptsvmlx.pas"/>
+        <DCCReference Include="mgflrpg.pas">
+            <Form>fmgflrpg</Form>
+        </DCCReference>
+        <DCCReference Include="mgfrclp.pas">
+            <Form>frclp</Form>
+            <DesignClass>TFrame</DesignClass>
+        </DCCReference>
+        <DCCReference Include="ptsdghtml.pas">
+            <Form>ftsdghtml</Form>
+        </DCCReference>
+        <DCCReference Include="ptsversionado.pas">
+            <Form>ftsversionado</Form>
+        </DCCReference>
+        <DCCReference Include="pbarra.pas">
+            <Form>fbarra</Form>
+        </DCCReference>
+        <DCCReference Include="ExeMod.pas"/>
+        <DCCReference Include="ptsbms.pas">
+            <Form>ftsbms</Form>
+        </DCCReference>
+        <DCCReference Include="ptsbfr.pas">
+            <Form>ftsbfr</Form>
+        </DCCReference>
+        <DCCReference Include="ptsattribute.pas">
+            <Form>ftsattribute</Form>
+        </DCCReference>
+        <DCCReference Include="ptsinventario.pas">
+            <Form>ftsinventario</Form>
+        </DCCReference>
+        <DCCReference Include="ptsadminctrusu.pas">
+            <Form>ftsadminctrusu</Form>
+        </DCCReference>
+        <DCCReference Include="ptscaducidad.pas">
+            <Form>ftscaducidad</Form>
+        </DCCReference>
+        <DCCReference Include="ptscnvprog.pas">
+            <Form>ftscnvprog</Form>
+        </DCCReference>
+        <DCCReference Include="HTML_HELP.pas"/>
+        <DCCReference Include="HtmlHlp.pas"/>
+        <DCCReference Include="uDiagramaRutinas.pas"/>
+        <DCCReference Include="pstviewhtml.pas">
+            <Form>ftsviewhtml</Form>
+        </DCCReference>
+        <DCCReference Include="ptsanaprog.pas">
+            <Form>ftsanaprog</Form>
+        </DCCReference>
+        <DCCReference Include="ptspropaga.pas">
+            <Form>ftspropaga</Form>
+        </DCCReference>
+        <DCCReference Include="uConstantes.pas"/>
+        <DCCReference Include="ufmSVSDiagrama.pas">
+            <Form>fmSVSDiagrama</Form>
+        </DCCReference>
+        <DCCReference Include="ufmUMLPaquetes.pas">
+            <Form>fmUMLPaquetes</Form>
+        </DCCReference>
+        <DCCReference Include="ptscreaind.pas"/>
+        <DCCReference Include="ufmUMLClases.pas">
+            <Form>fmUMLClases</Form>
+        </DCCReference>
+        <DCCReference Include="ufmAnalisisImpacto.pas">
+            <Form>fmAnalisisImpacto</Form>
+        </DCCReference>
+        <DCCReference Include="ufmProcesos.pas">
+            <Form>fmProcesos</Form>
+        </DCCReference>
+        <DCCReference Include="ptsscrsec.pas">
+            <Form>ftsscrsec</Form>
+        </DCCReference>
+        <DCCReference Include="ufmSVSEditor.pas">
+            <Form>fmSVSEditor</Form>
+        </DCCReference>
+        <DCCReference Include="ufmSVSLista.pas">
+            <Form>fmSVSLista</Form>
+        </DCCReference>
+        <DCCReference Include="uListaRutinas.pas"/>
+        <DCCReference Include="ufmDocumentacion.pas">
+            <Form>fmDocumentacion</Form>
+        </DCCReference>
+        <DCCReference Include="ufmScheduler.pas">
+            <Form>fmScheduler</Form>
+        </DCCReference>
+        <DCCReference Include="ufmClasesXProducto.pas">
+            <Form>fmClasesXProducto</Form>
+        </DCCReference>
+        <DCCReference Include="ufmBloques.pas">
+            <Form>fmBloques</Form>
+        </DCCReference>
+        <DCCReference Include="UfmListaCompo.pas">
+            <Form>fmListaCompo</Form>
+        </DCCReference>
+        <DCCReference Include="UfmMatrizCrud.pas">
+            <Form>fmMatrizCrud</Form>
+        </DCCReference>
+        <DCCReference Include="UfmListaDependencias.pas">
+            <Form>fmListaDependencias</Form>
+        </DCCReference>
+        <DCCReference Include="ufmConsCom.pas">
+            <Form>fmConsCom</Form>
+        </DCCReference>
+        <DCCReference Include="ufmSVSGrid.pas">
+            <Form>fmSVSGrid</Form>
+        </DCCReference>
+        <DCCReference Include="ufmDocHistorial.pas">
+            <Form>fmDocHistorial</Form>
+        </DCCReference>
+        <DCCReference Include="UfmRefCruz.pas">
+            <Form>fmRefCruz</Form>
+        </DCCReference>
+        <DCCReference Include="UfmMatrizAF.pas">
+            <Form>fmMatrizAF</Form>
+        </DCCReference>
+        <DCCReference Include="ufmListaDrill.pas">
+            <Form>fmListaDrill</Form>
+        </DCCReference>
+        <DCCReference Include="ptscomun.pas"/>
+        <DCCReference Include="ptsrec.pas"/>
+        <DCCReference Include="ufmInvCompo.pas">
+            <Form>fmInvCompo</Form>
+        </DCCReference>
+        <DCCReference Include="ufmMatrizArchLog.pas">
+            <Form>fmMatrizArchLog</Form>
+        </DCCReference>
+        <DCCReference Include="ufmDocSistema.pas">
+            <Form>fmDocSistema</Form>
+        </DCCReference>
+        <DCCReference Include="ufmDigraSistema.pas">
+            <Form>fmDigraSistema</Form>
+        </DCCReference>
+        <DCCReference Include="uRutinasExcel.pas"/>
+        <DCCReference Include="ufmSVSListaExcel.pas">
+            <Form>fmSVSListaExcel</Form>
+        </DCCReference>
+        <DCCReference Include="ufmBuscaCompo.pas">
+            <Form>fmBuscaCompo</Form>
+        </DCCReference>
+        <DCCReference Include="ptsgral.pas">
+            <Form>gral</Form>
+        </DCCReference>
+        <DCCReference Include="alkNuevoDiag.pas">
+            <Form>alkNuevoDiagrama</Form>
+        </DCCReference>
+        <DCCReference Include="alkJerCla.pas">
+            <Form>alkFormJerCla</Form>
+        </DCCReference>
+        <DCCReference Include="alkScheduler.pas">
+            <Form>alkFormScheduler</Form>
+        </DCCReference>
+        <DCCReference Include="alkAnCom.pas">
+            <Form>alkAnCompl</Form>
+        </DCCReference>
+        <DCCReference Include="alkReingresaDocto.pas">
+            <Form>alkGridReingresa</Form>
+        </DCCReference>
+        <DCCReference Include="GIFImage.pas"/>
+        <DCCReference Include="mORMotReport.pas"/>
+        <DCCReference Include="SynCommons.pas"/>
+        <DCCReference Include="SynCrypto.pas"/>
+        <DCCReference Include="SynGdiPlus.pas"/>
+        <DCCReference Include="SynLZ.pas"/>
+        <DCCReference Include="SynPdf.pas"/>
+        <DCCReference Include="SynZip.pas"/>
+        <DCCReference Include="alkDetTab.pas">
+            <Form>alkFormDetTab</Form>
+        </DCCReference>
+        <DCCReference Include="ptsconver.pas">
+            <Form>ftsconver</Form>
+        </DCCReference>
+        <DCCReference Include="ptsestatica.pas">
+            <Form>ftsestatica</Form>
+        </DCCReference>
+        <DCCReference Include="alkConfDiag.pas">
+            <Form>alkFormConfDiag</Form>
+        </DCCReference>
+        <DCCReference Include="alkDocAutoDinamica.pas">
+            <Form>alkFormDocAutoDinam</Form>
+        </DCCReference>
+        <DCCReference Include="ptsmuerto.pas">
+            <Form>ftsmuerto</Form>
+        </DCCReference>
+        <DCCReference Include="ptsgenera.pas">
+            <Form>ftsgenera</Form>
+        </DCCReference>
+        <DCCReference Include="ptsvaxfrm.pas">
+            <Form>ftsvaxfrm</Form>
+        </DCCReference>
+        <DCCReference Include="ptspostrec.pas"/>
+        <DCCReference Include="alkDocWord.pas">
+            <Form>alkFormDocWord</Form>
+        </DCCReference>
+        <DCCReference Include="fptpar.pas">
+            <Form>ftsparametros</Form>
+        </DCCReference>
+        <DCCReference Include="alkBrowse.pas">
+            <Form>alkFormBrowse</Form>
+        </DCCReference>
+        <None Include="SysMining.todo"/>
+        <BuildConfiguration Include="Debug">
+            <Key>Cfg_2</Key>
+            <CfgParent>Base</CfgParent>
+        </BuildConfiguration>
+        <BuildConfiguration Include="Base">
+            <Key>Base</Key>
+        </BuildConfiguration>
+        <BuildConfiguration Include="Release">
+            <Key>Cfg_1</Key>
+            <CfgParent>Base</CfgParent>
+        </BuildConfiguration>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Delphi.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Delphi.Personality>
+                <Source>
+                    <Source Name="MainSource">SysMining.dpr</Source>
+                </Source>
+            </Delphi.Personality>
+            <Platforms>
+                <Platform value="iOSDevice64">True</Platform>
+                <Platform value="Linux64">True</Platform>
+                <Platform value="Win32">True</Platform>
+                <Platform value="Win64">False</Platform>
+            </Platforms>
+        </BorlandProject>
+        <ProjectFileVersion>12</ProjectFileVersion>
+    </ProjectExtensions>
+    <Import Project="$(BDS)\Bin\CodeGear.Delphi.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Delphi.Targets')"/>
+    <Import Project="$(APPDATA)\Embarcadero\$(BDSAPPDATABASEDIR)\$(PRODUCTVERSION)\UserTools.proj" Condition="Exists('$(APPDATA)\Embarcadero\$(BDSAPPDATABASEDIR)\$(PRODUCTVERSION)\UserTools.proj')"/>
+</Project>

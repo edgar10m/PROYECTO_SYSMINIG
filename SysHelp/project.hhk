@@ -1,0 +1,250 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Dr.Explain (www.drexplain.com)"/>
+<!-- Sitemap 1.0 -->
+</HEAD>
+<BODY>
+<UL>
+	<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Ayuda" />
+			<param name="Name" value="Ayuda" />
+			<param name="Local" value="ayuda.htm" />
+		</OBJECT>
+		<UL>
+			<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Ayuda Sys-Mining" />
+					<param name="Name" value="Entorno de la ventana de Ayuda" />
+					<param name="Local" value="entorno_de_la_ventana_de_ayuda.htm" />
+				</OBJECT>
+				<UL>
+				</UL>
+			</LI>
+			<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="About" />
+					<param name="Name" value="Acerca de Sys-Mining©" />
+					<param name="Local" value="acerca_de_sys_mining_.htm" />
+				</OBJECT>
+				<UL>
+				</UL>
+			</LI>
+		</UL>
+	</LI>
+	<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Administración" />
+			<param name="Name" value="Administración" />
+			<param name="Local" value="administracion.htm" />
+		</OBJECT>
+		<UL>
+			<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Actualizar" />
+					<param name="Name" value="Actualizar" />
+					<param name="Local" value="actualizar.htm" />
+				</OBJECT>
+				<UL>
+				</UL>
+			</LI>
+			<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Jerarquía de clases" />
+					<param name="Name" value="Jerarquía de clases" />
+					<param name="Local" value="jerarquia_de_clases.htm" />
+				</OBJECT>
+				<UL>
+				</UL>
+			</LI>
+			<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Clases por producto" />
+					<param name="Name" value="Clases por producto" />
+					<param name="Local" value="clases_por_producto.htm" />
+				</OBJECT>
+				<UL>
+				</UL>
+			</LI>
+			<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Creación de índices" />
+					<param name="Name" value="Creación de índices" />
+					<param name="Local" value="creacion_de_indices.htm" />
+				</OBJECT>
+				<UL>
+				</UL>
+			</LI>
+			<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Monitoreo de usuarios" />
+					<param name="Name" value="Monitoreo de Usuarios" />
+					<param name="Local" value="monitoreo_de_usuarios.htm" />
+				</OBJECT>
+				<UL>
+				</UL>
+			</LI>
+			<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Cambio de password" />
+					<param name="Name" value="Cambio de Password" />
+					<param name="Local" value="cambio_de_password.htm" />
+				</OBJECT>
+				<UL>
+				</UL>
+			</LI>
+		</UL>
+	</LI>
+	<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Catálogos" />
+			<param name="Name" value="Catálogos" />
+			<param name="Local" value="catalogos.htm" />
+		</OBJECT>
+		<UL>
+			<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Descripición Tsprog" />
+					<param name="Name" value="Descripción Tsprog" />
+					<param name="Local" value="descripcion_tsprog.htm" />
+				</OBJECT>
+				<UL>
+				</UL>
+			</LI>
+			<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Roles" />
+					<param name="Name" value="Roles" />
+					<param name="Local" value="roles.htm" />
+				</OBJECT>
+				<UL>
+				</UL>
+			</LI>
+			<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Oficinas" />
+					<param name="Name" value="Oficinas" />
+					<param name="Local" value="oficinas.htm" />
+				</OBJECT>
+				<UL>
+				</UL>
+			</LI>
+			<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Sistemas" />
+					<param name="Name" value="Sistemas" />
+					<param name="Local" value="sistemas.htm" />
+				</OBJECT>
+				<UL>
+				</UL>
+			</LI>
+			<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Bibliotecas" />
+					<param name="Name" value="Bibliotecas" />
+					<param name="Local" value="bibliotecas.htm" />
+				</OBJECT>
+				<UL>
+				</UL>
+			</LI>
+			<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Clases" />
+					<param name="Name" value="Clases" />
+					<param name="Local" value="clases.htm" />
+				</OBJECT>
+				<UL>
+				</UL>
+			</LI>
+			<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Asigna rol a usuario" />
+					<param name="Name" value="Asigna Rol a Usuario" />
+					<param name="Local" value="asigna_rol_a_usuario.htm" />
+				</OBJECT>
+				<UL>
+				</UL>
+			</LI>
+			<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Parámetros" />
+					<param name="Name" value="Parámetros" />
+					<param name="Local" value="parametros.htm" />
+				</OBJECT>
+				<UL>
+				</UL>
+			</LI>
+			<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Usurios" />
+					<param name="Name" value="Usuarios" />
+					<param name="Local" value="usuarios.htm" />
+				</OBJECT>
+				<UL>
+				</UL>
+			</LI>
+			<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Capacidades" />
+					<param name="Name" value="Capacidades" />
+					<param name="Local" value="capacidades.htm" />
+				</OBJECT>
+				<UL>
+				</UL>
+			</LI>
+			<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Utilerías" />
+					<param name="Name" value="Utilerías" />
+					<param name="Local" value="utilerias.htm" />
+				</OBJECT>
+				<UL>
+				</UL>
+			</LI>
+			<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Carga de utilerías" />
+					<param name="Name" value="Carga de Utilerías" />
+					<param name="Local" value="carga_de_utilerias.htm" />
+				</OBJECT>
+				<UL>
+				</UL>
+			</LI>
+		</UL>
+	</LI>
+	<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Herramientas" />
+			<param name="Name" value="Herramientas" />
+			<param name="Local" value="herramientas.htm" />
+		</OBJECT>
+		<UL>
+			<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Estilo de ventana" />
+					<param name="Name" value="Estilo de Ventanas" />
+					<param name="Local" value="estilo_de_ventanas.htm" />
+				</OBJECT>
+				<UL>
+				</UL>
+			</LI>
+			<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Reporteador" />
+					<param name="Name" value="Reporteador" />
+					<param name="Local" value="reporteador.htm" />
+				</OBJECT>
+				<UL>
+				</UL>
+			</LI>
+			<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Editor de diagramas" />
+					<param name="Name" value="Editor de Diagramas" />
+					<param name="Local" value="editor_de_diagramas.htm" />
+				</OBJECT>
+				<UL>
+				</UL>
+			</LI>
+			<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Casos de uso" />
+					<param name="See Also" value="Casos de uso" />
+				</OBJECT>
+				<UL>
+				</UL>
+			</LI>
+		</UL>
+	</LI>
+	<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Ventanas" />
+			<param name="Name" value="Ventanas Activas" />
+			<param name="Local" value="ventanas_activas.htm" />
+		</OBJECT>
+		<UL>
+		</UL>
+	</LI>
+	<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Sesion" />
+			<param name="Name" value="Sesión" />
+			<param name="Local" value="sesion.htm" />
+		</OBJECT>
+		<UL>
+		</UL>
+	</LI>
+</UL>
+</BODY>
+</HTML>

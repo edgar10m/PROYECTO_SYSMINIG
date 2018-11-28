@@ -1,0 +1,1355 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Dr.Explain (www.drexplain.com)"/>
+<!-- Sitemap 1.0 -->
+</HEAD>
+<BODY>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Página principal"/>
+<param name="Local" value="index.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Presentación"/>
+<param name="Local" value="presentacion.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introducción a Sys-Mining©"/>
+<param name="Local" value="Introduccion.htm"/>
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Productos Base Sys-Mining©"/>
+<param name="Local" value="productos_base_sys_mining_.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="A quién está dirigido"/>
+<param name="Local" value="a_quien_esta_dirigido.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Funcionamiento"/>
+<param name="Local" value="funcionamiento.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Entorno Principal del Sys-Mining© "/>
+<param name="Local" value="EntornoPrincipal.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Minería de Aplicaciones"/>
+<param name="Local" value="mineria_de_aplicaciones.htm"/>
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Base de Conocimiento (Árbol de Componentes)"/>
+<param name="Local" value="base_de_conocimiento__arbol_de_componentes_.htm"/>
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Menú contextual"/>
+<param name="Local" value="menu_contextual.htm"/>
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Diagrama del Sistema"/>
+<param name="Local" value="diagrama_del_sistema.htm"/>
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Diagrama del Sistema DEMO"/>
+<param name="Local" value="diagrama_del_sistema_demo.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Barra de menús Diagrama del Sistema"/>
+<param name="Local" value="barra_de_menus_diagrama_del_sistema.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Lista Dependencia de Componentes"/>
+<param name="Local" value="lista_dependencia_de_componentes.htm"/>
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PROGRAMA COBOL - CBL COBLIN RSSBT000"/>
+<param name="Local" value="programa_cobol___cbl_coblin_rssbt000_1.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TRANSACCIONES - CCT DEMOCCT M001"/>
+<param name="Local" value="transacciones___cct_democct_m001_1.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="COPY COBOL - CPY COBCPY CGTL0020"/>
+<param name="Local" value="copy_cobol___cpy_cobcpy_cgtl0020_1.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TARJETAS DE DATOS - CTC COBCTC VRCDEP01"/>
+<param name="Local" value="tarjetas_de_datos___ctc_cobctc_vrcdep01_1.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SCHEDULER CTRL-M - CTR COBCTR CONTROLIBM"/>
+<param name="Local" value="scheduler_ctrl_m___ctr_cobctr_controlibm_1.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PROC JCL - JCL COBPRC VRPCE001"/>
+<param name="Local" value="proc_jcl___jcl_cobprc_vrpce001_1.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="DISPARADOR JOB - JOB COBJCL VRJCE001"/>
+<param name="Local" value="disparador_job___job_cobjcl_vrjce001_1.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SERVICIOS DE NEGOCIO - NEG DEMONEG MERCADO_DE_DINERO"/>
+<param name="Local" value="servicios_de_negocio___neg_demoneg_mercado_de_dinero_1.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PROCESO DE NEGOCIO - NEP DEMONEP CARGA_DE_DINERO"/>
+<param name="Local" value="proceso_de_negocio___nep_demonep_carga_de_dinero_1.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Lista de Componentes"/>
+<param name="Local" value="lista_de_componentes_1.htm"/>
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PROGRAMA COBOL - CBL COBLIN RSSBT000"/>
+<param name="Local" value="programa_cobol___cbl_coblin_rssbt000_2.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TRANSACCIONES - CCT DEMOCCT M001"/>
+<param name="Local" value="transacciones___cct_democct_m001_2.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="COPY COBOL - CPY COBCPY CGTL0020"/>
+<param name="Local" value="copy_cobol___cpy_cobcpy_cgtl0020_2.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TARJETAS DE DATOS - CTC COBCTC VRCDEP01"/>
+<param name="Local" value="tarjetas_de_datos___ctc_cobctc_vrcdep01_2.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SCHEDULER CTRL-M - CTR COBCTR CONTROLIBM"/>
+<param name="Local" value="scheduler_ctrl_m___ctr_cobctr_controlibm_2.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PROC JCL - JCL COBPRC VRPCE001"/>
+<param name="Local" value="proc_jcl___jcl_cobprc_vrpce001_2.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="DISPARADOR JOB - JOB COBJCL VRJCE001"/>
+<param name="Local" value="disparador_job___job_cobjcl_vrjce001_2.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SERVICIOS DE NEGOCIO - NEG DEMONEG MERCADO_DE_DINERO"/>
+<param name="Local" value="servicios_de_negocio___neg_demoneg_mercado_de_dinero_2.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PROCESO DE NEGOCIO - NEP DEMONEP CARGA_DE_DINERO"/>
+<param name="Local" value="proceso_de_negocio___nep_demonep_carga_de_dinero_2.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Diagrama de Análisis de Impacto"/>
+<param name="Local" value="diagrama_de_analisis_de_impacto.htm"/>
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PANTALLA IBM - BMS COBBMS RSSBM00"/>
+<param name="Local" value="pantalla_ibm___bms_cobbms_rssbm00_1.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PROGRAMA COBOL - CBL COBLIN RSSBT000"/>
+<param name="Local" value="programa_cobol___cbl_coblin_rssbt000_3.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TRANSACCIONES - CCT DEMOCCT M001"/>
+<param name="Local" value="transacciones___cct_democct_m001_3.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="COPY COBOL - CPY COBCPY CGTL0020"/>
+<param name="Local" value="copy_cobol___cpy_cobcpy_cgtl0020_3.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TARJETAS DE DATOS - CTC COBCTC VRCDEP01"/>
+<param name="Local" value="tarjetas_de_datos___ctc_cobctc_vrcdep01_3.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SCHEDULER CTRL-M - CTR COBCTR CONTROLIBM"/>
+<param name="Local" value="scheduler_ctrl_m___ctr_cobctr_controlibm_3.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PROC JCL - JCL COBPRC VRPCE001"/>
+<param name="Local" value="proc_jcl___jcl_cobprc_vrpce001_3.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="DISPARADOR JOB - JOB COBJCL VRJCE001"/>
+<param name="Local" value="disparador_job___job_cobjcl_vrjce001_3.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SERVICIOS DE NEGOCIO - NEG DEMONEG MERCADO_DE_DINERO"/>
+<param name="Local" value="servicios_de_negocio___neg_demoneg_mercado_de_dinero_3.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PROCESO DE NEGOCIO - NEP DEMONEP CARGA_DE_DINERO"/>
+<param name="Local" value="proceso_de_negocio___nep_demonep_carga_de_dinero_3.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Diagrama de Bloques"/>
+<param name="Local" value="diagrama_de_bloques.htm"/>
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PROGRAMA COBOL - CBL COBSRC VR4C0055"/>
+<param name="Local" value="programa_cobol___cbl_cobsrc_vr4c0055.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Diagrama de Flujo Interactivo"/>
+<param name="Local" value="diagrama_de_flujo_interactivo.htm"/>
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PROGRAMA COBOL - CBL COBLIN RSSBT000"/>
+<param name="Local" value="programa_cobol___cbl_coblin_rssbt000_4.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Diagrama de Flujo Cobol"/>
+<param name="Local" value="diagrama_de_flujo_cobol.htm"/>
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PROGRAMA COBOL - CBL COBLIN RSSBT000 "/>
+<param name="Local" value="programa_cobol___cbl_coblin_rssbt000_.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Diagrama Jerárquico de Cobol"/>
+<param name="Local" value="diagrama_jerarquico_de_cobol.htm"/>
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PROGRAMA COBOL - CBL COBLIN RSSBT000"/>
+<param name="Local" value="programa_cobol___cbl_coblin_rssbt000_5.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Diagrama de Flujo Copy"/>
+<param name="Local" value="diagrama_de_flujo_copy.htm"/>
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="COPY COBOL - CPY COBCPY CGTL0020"/>
+<param name="Local" value="copy_cobol___cpy_cobcpy_cgtl0020_4.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Diagrama de Flujo"/>
+<param name="Local" value="diagrama_de_flujo.htm"/>
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PROC JCL - JCL COBPRC VRPCE001"/>
+<param name="Local" value="proc_jcl___jcl_cobprc_vrpce001_4.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="DISPARADOR JOB - JOB COBJCL VRJCE001"/>
+<param name="Local" value="disparador_job___job_cobjcl_vrjce001_4.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Diagrama de Flujo con Comentarios"/>
+<param name="Local" value="diagrama_de_flujo_con_comentarios.htm"/>
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PROC JCL - JCL COBPRC VRPCE001 Diagrama de Flujo con Comentarios"/>
+<param name="Local" value="proc_jcl___jcl_cobprc_vrpce001_diagrama_de_flujo_con_comentarios.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="DISPARADOR JOB - JOB COBJCL VRJCE001 Diagrama de Flujo con Comentarios"/>
+<param name="Local" value="disparador_job___job_cobjcl_vrjce001_diagrama_de_flujo_con_comentarios.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Diagrama de Componentes"/>
+<param name="Local" value="diagrama_de_componentes.htm"/>
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PANTALLA IBM - BMS COBBMS RSSBM00"/>
+<param name="Local" value="pantalla_ibm___bms_cobbms_rssbm00_2.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PROGRAMA COBOL - CBL COBLIN RSSBT000"/>
+<param name="Local" value="programa_cobol___cbl_coblin_rssbt000_6.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TRANSACCIONES - CCT DEMOCCT M001"/>
+<param name="Local" value="transacciones___cct_democct_m001_4.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="COPY COBOL - CPY COBCPY CGTL0020"/>
+<param name="Local" value="copy_cobol___cpy_cobcpy_cgtl0020_5.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TARJETAS DE DATOS - CTC COBCTC VRCDEP01"/>
+<param name="Local" value="tarjetas_de_datos___ctc_cobctc_vrcdep01_4.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SCHEDULER CTRL-M - CTR COBCTR CONTROLIBM"/>
+<param name="Local" value="scheduler_ctrl_m___ctr_cobctr_controlibm_4.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PROC JCL - JCL COBPRC VRPCE001"/>
+<param name="Local" value="proc_jcl___jcl_cobprc_vrpce001_5.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="DISPARADOR JOB - JOB COBJCL VRJCE001"/>
+<param name="Local" value="disparador_job___job_cobjcl_vrjce001_5.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SERVICIOS DE NEGOCIO - NEG DEMONEG MERCADO_DE_DINERO"/>
+<param name="Local" value="servicios_de_negocio___neg_demoneg_mercado_de_dinero_4.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PROCESO DE NEGOCIO - NEP DEMONEP CARGA_DE_DINERO"/>
+<param name="Local" value="proceso_de_negocio___nep_demonep_carga_de_dinero_4.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Documentación Externa"/>
+<param name="Local" value="documentacion_externa.htm"/>
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PROGRAMA COBOL - CBL COBLIN RSSBT000"/>
+<param name="Local" value="programa_cobol___cbl_coblin_rssbt000_7.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PROC JCL - JCL COBPRC VRPCE001"/>
+<param name="Local" value="proc_jcl___jcl_cobprc_vrpce001_6.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Barra de menús Documentación Externa"/>
+<param name="Local" value="barra_de_menus_documentacion_externa.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Drill Down"/>
+<param name="Local" value="drill_down.htm"/>
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PROGRAMA COBOL - CBL COBLIN RSSBT000"/>
+<param name="Local" value="programa_cobol___cbl_coblin_rssbt000_8.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TRANSACCIONES - CCT DEMOCCT M001"/>
+<param name="Local" value="transacciones___cct_democct_m001_5.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TARJETAS DE DATOS - CTC COBCTC VRCDEP01"/>
+<param name="Local" value="tarjetas_de_datos___ctc_cobctc_vrcdep01_5.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SCHEDULER CTRL-M - CTR COBCTR CONTROLIBM"/>
+<param name="Local" value="scheduler_ctrl_m___ctr_cobctr_controlibm_5.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PROC JCL - JCL COBPRC VRPCE001"/>
+<param name="Local" value="proc_jcl___jcl_cobprc_vrpce001_7.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="DISPARADOR JOB - JOB COBJCL VRJCE001"/>
+<param name="Local" value="disparador_job___job_cobjcl_vrjce001_6.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SERVICIOS DE NEGOCIO - NEG DEMONEG MERCADO_DE_DINERO"/>
+<param name="Local" value="servicios_de_negocio___neg_demoneg_mercado_de_dinero_5.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PROCESO DE NEGOCIO - NEP DEMONEP CARGA_DE_DINERO"/>
+<param name="Local" value="proceso_de_negocio___nep_demonep_carga_de_dinero_5.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Drill Up"/>
+<param name="Local" value="drill_up.htm"/>
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PANTALLA IBM - BMS COBBMS RSSBM00"/>
+<param name="Local" value="pantalla_ibm___bms_cobbms_rssbm00_3.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PROGRAMA COBOL - CBL COBLIN RSSBT000"/>
+<param name="Local" value="programa_cobol___cbl_coblin_rssbt000_9.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TRANSACCIONES - CCT DEMOCCT M001"/>
+<param name="Local" value="transacciones___cct_democct_m001_6.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="COPY COBOL - CPY COBCPY CGTL0020"/>
+<param name="Local" value="copy_cobol___cpy_cobcpy_cgtl0020_6.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TARJETAS DE DATOS - CTC COBCTC VRCDEP01"/>
+<param name="Local" value="tarjetas_de_datos___ctc_cobctc_vrcdep01_6.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SCHEDULER CTRL-M - CTR COBCTR CONTROLIBM"/>
+<param name="Local" value="scheduler_ctrl_m___ctr_cobctr_controlibm_6.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PROC JCL - JCL COBPRC VRPCE001"/>
+<param name="Local" value="proc_jcl___jcl_cobprc_vrpce001_8.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="DISPARADOR JOB - JOB COBJCL VRJCE001"/>
+<param name="Local" value="disparador_job___job_cobjcl_vrjce001_7.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SERVICIOS DE NEGOCIO - NEG DEMONEG MERCADO_DE_DINERO"/>
+<param name="Local" value="servicios_de_negocio___neg_demoneg_mercado_de_dinero_6.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PROCESO DE NEGOCIO - NEP DEMONEP CARGA_DE_DINERO"/>
+<param name="Local" value="proceso_de_negocio___nep_demonep_carga_de_dinero_6.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Referencias Cruzadas"/>
+<param name="Local" value="referencias_cruzadas.htm"/>
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PANTALLA IBM - BMS COBBMS RSSBM00"/>
+<param name="Local" value="pantalla_ibm___bms_cobbms_rssbm00_4.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PROGRAMA COBOL - CBL COBLIN RSSBT000"/>
+<param name="Local" value="programa_cobol___cbl_coblin_rssbt000_10.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TRANSACCIONES - CCT DEMOCCT M001"/>
+<param name="Local" value="transacciones___cct_democct_m001_7.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="COPY COBOL - CPY COBCPY CGTL0020"/>
+<param name="Local" value="copy_cobol___cpy_cobcpy_cgtl0020_7.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TARJETAS DE DATOS - CTC COBCTC VRCDEP01"/>
+<param name="Local" value="tarjetas_de_datos___ctc_cobctc_vrcdep01_7.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SCHEDULER CTRL-M - CTR COBCTR CONTROLIBM"/>
+<param name="Local" value="scheduler_ctrl_m___ctr_cobctr_controlibm_7.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PROC JCL - JCL COBPRC VRPCE001"/>
+<param name="Local" value="proc_jcl___jcl_cobprc_vrpce001_9.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="DISPARADOR JOB - JOB COBJCL VRJCE001"/>
+<param name="Local" value="disparador_job___job_cobjcl_vrjce001_8.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SERVICIOS DE NEGOCIO - NEG DEMONEG MERCADO_DE_DINERO"/>
+<param name="Local" value="servicios_de_negocio___neg_demoneg_mercado_de_dinero_7.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PROCESO DE NEGOCIO - NEP DEMONEP CARGA_DE_DINERO"/>
+<param name="Local" value="proceso_de_negocio___nep_demonep_carga_de_dinero_7.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Propiedades"/>
+<param name="Local" value="propiedades.htm"/>
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PROGRAMA COBOL - CBL COBLIN RSSBT000"/>
+<param name="Local" value="programa_cobol___cbl_coblin_rssbt000_11.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TRANSACCIONES - CCT DEMOCCT M001"/>
+<param name="Local" value="transacciones___cct_democct_m001_8.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="COPY COBOL - CPY COBCPY CGTL0020"/>
+<param name="Local" value="copy_cobol___cpy_cobcpy_cgtl0020_8.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TARJETAS DE DATOS - CTC COBCTC VRCDEP01"/>
+<param name="Local" value="tarjetas_de_datos___ctc_cobctc_vrcdep01_8.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SCHEDULER CTRL-M - CTR COBCTR CONTROLIBM"/>
+<param name="Local" value="scheduler_ctrl_m___ctr_cobctr_controlibm_8.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PROC JCL - JCL COBPRC VRPCE001"/>
+<param name="Local" value="proc_jcl___jcl_cobprc_vrpce001_10.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="DISPARADOR JOB - JOB COBJCL VRJCE001"/>
+<param name="Local" value="disparador_job___job_cobjcl_vrjce001_9.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SERVICIOS DE NEGOCIO - NEG DEMONEG MERCADO_DE_DINERO"/>
+<param name="Local" value="servicios_de_negocio___neg_demoneg_mercado_de_dinero_8.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PROCESO DE NEGOCIO - NEP DEMONEP CARGA_DE_DINERO"/>
+<param name="Local" value="proceso_de_negocio___nep_demonep_carga_de_dinero_8.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Ver Fuente"/>
+<param name="Local" value="ver_fuente.htm"/>
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PANTALLA IBM - BMS COBBMS RSSBM00"/>
+<param name="Local" value="pantalla_ibm___bms_cobbms_rssbm00_5.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PROGRAMA COBOL - CBL COBLIN RSSBT000"/>
+<param name="Local" value="programa_cobol___cbl_coblin_rssbt000_12.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TRANSACCIONES - CCT DEMOCCT M001"/>
+<param name="Local" value="transacciones___cct_democct_m001_9.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="COPY COBOL - CPY COBCPY CGTL0020"/>
+<param name="Local" value="copy_cobol___cpy_cobcpy_cgtl0020_9.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TARJETAS DE DATOS - CTC COBCTC VRCDEP01"/>
+<param name="Local" value="tarjetas_de_datos___ctc_cobctc_vrcdep01_9.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SCHEDULER CTRL-M - CTR COBCTR CONTROLIBM"/>
+<param name="Local" value="scheduler_ctrl_m___ctr_cobctr_controlibm_9.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PROC JCL - JCL COBPRC VRPCE001"/>
+<param name="Local" value="proc_jcl___jcl_cobprc_vrpce001_11.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="DISPARADOR JOB - JOB COBJCL VRJCE001"/>
+<param name="Local" value="disparador_job___job_cobjcl_vrjce001_10.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SERVICIOS DE NEGOCIO - NEG DEMONEG MERCADO_DE_DINERO"/>
+<param name="Local" value="servicios_de_negocio___neg_demoneg_mercado_de_dinero_9.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PROCESO DE NEGOCIO - NEP DEMONEP CARGA_DE_DINERO"/>
+<param name="Local" value="proceso_de_negocio___nep_demonep_carga_de_dinero_9.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Barra de menús Ver Fuente"/>
+<param name="Local" value="barra_de_menus_ver_fuente.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Versionado de Componentes"/>
+<param name="Local" value="versionado_de_componentes.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Vista Previa"/>
+<param name="Local" value="vista_previa.htm"/>
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PANTALLA IBM - BMS COBBMS RSSBM00"/>
+<param name="Local" value="pantalla_ibm___bms_cobbms_rssbm00_6.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Diagrama Scheduler"/>
+<param name="Local" value="diagrama_scheduler.htm"/>
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SCHEDULER CTRL-M - CTR COBCTR CONTROLIBM"/>
+<param name="Local" value="scheduler_ctrl_m___ctr_cobctr_controlibm_10.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Barra de menús Diagramas"/>
+<param name="Local" value="barra_de_menus_diagramas.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+</UL>
+</LI>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Búsqueda en Componentes"/>
+<param name="Local" value="busqueda_en_componentes.htm"/>
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Descripción de la ventana Búsqueda en Componentes"/>
+<param name="Local" value="descripcion_de_la_ventana_busqueda_en_componentes.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Consulta de Componentes"/>
+<param name="Local" value="consulta_de_componentes.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Inventario de Componentes"/>
+<param name="Local" value="inventario_de_componentes.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Lista de Componentes"/>
+<param name="Local" value="lista_de_componentes_2.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Lista Dependencias de Componentes"/>
+<param name="Local" value="lista_dependencias_de_componentes.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Matriz CRUD"/>
+<param name="Local" value="matriz_crud.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Matriz Archivos Físicos"/>
+<param name="Local" value="matriz_archivos_fisicos.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Recepción de Componentes"/>
+<param name="Local" value="recepcion_de_componentes.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Barra de menús"/>
+<param name="Local" value="barra_de_menus.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Documentación del Sistema "/>
+<param name="Local" value="documentacion_del_sistema_.htm"/>
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Productos por Tipo"/>
+<param name="Local" value="productos_por_tipo.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Barra de menús Documentación del Sistema"/>
+<param name="Local" value="barra_de_menus_documentacion_del_sistema.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Conversión de Componentes "/>
+<param name="Local" value="conversion_de_componentes_.htm"/>
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Conversión "/>
+<param name="Local" value="conversion_.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Sesión"/>
+<param name="Local" value="sesion.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Administración"/>
+<param name="Local" value="administracion.htm"/>
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Actualizar"/>
+<param name="Local" value="actualizar.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Jerarquía de clases"/>
+<param name="Local" value="jerarquia_de_clases.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Clases por producto"/>
+<param name="Local" value="clases_por_producto.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Creación de índices"/>
+<param name="Local" value="creacion_de_indices.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Monitoreo de Usuarios"/>
+<param name="Local" value="monitoreo_de_usuarios.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Cambio de Password"/>
+<param name="Local" value="cambio_de_password.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Catálogos"/>
+<param name="Local" value="catalogos.htm"/>
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Browse en Catálogos"/>
+<param name="Local" value="browse_en_catalogos.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parámetros"/>
+<param name="Local" value="parametros.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Descripción Tsprog"/>
+<param name="Local" value="descripcion_tsprog.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Roles"/>
+<param name="Local" value="roles.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Usuarios"/>
+<param name="Local" value="usuarios.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Asigna Rol a Usuario"/>
+<param name="Local" value="asigna_rol_a_usuario.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Capacidades"/>
+<param name="Local" value="capacidades.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Oficinas"/>
+<param name="Local" value="oficinas.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Sistemas"/>
+<param name="Local" value="sistemas.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Clases"/>
+<param name="Local" value="clases.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Bibliotecas"/>
+<param name="Local" value="bibliotecas.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Utilerías"/>
+<param name="Local" value="utilerias.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Carga de Utilerías"/>
+<param name="Local" value="carga_de_utilerias.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Herramientas"/>
+<param name="Local" value="herramientas.htm"/>
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Estilo de Ventanas"/>
+<param name="Local" value="estilo_de_ventanas.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Reporteador"/>
+<param name="Local" value="reporteador.htm"/>
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Configuración"/>
+<param name="Local" value="configuracion.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Reportes "/>
+<param name="Local" value="reportes_.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Editor de Diagramas"/>
+<param name="Local" value="editor_de_diagramas.htm"/>
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Barra de menús Editor de diagramas"/>
+<param name="Local" value="barra_de_menus_editor_de_diagramas.htm"/>
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Menú File"/>
+<param name="Local" value="menu_file.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Menú Edit"/>
+<param name="Local" value="menu_edit.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Menú View"/>
+<param name="Local" value="menu_view.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Menú Object"/>
+<param name="Local" value="menu_object.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Barra de capas"/>
+<param name="Local" value="barra_de_capas.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Barra de herramientas Archivo"/>
+<param name="Local" value="barra_de_herramientas_archivo.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Barra de herramientas Líneas"/>
+<param name="Local" value="barra_de_herramientas_lineas.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Barra de herramientas Diseño"/>
+<param name="Local" value="barra_de_herramientas_diseno.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Barra de herramientas Fuente"/>
+<param name="Local" value="barra_de_herramientas_fuente.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Barra de herramientas Alineación "/>
+<param name="Local" value="barra_de_herramientas_alineacion_.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+</UL>
+</LI>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Ventanas Activas"/>
+<param name="Local" value="ventanas_activas.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Ayuda"/>
+<param name="Local" value="ayuda.htm"/>
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Entorno de la ventana de Ayuda"/>
+<param name="Local" value="entorno_de_la_ventana_de_ayuda.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Acerca de Sys-Mining©"/>
+<param name="Local" value="acerca_de_sys_mining_.htm"/>
+</OBJECT>
+<UL>
+</UL>
+</LI>
+</UL>
+</LI>
+</UL>
+</LI>
+</UL>
+</BODY>
+</HTML>

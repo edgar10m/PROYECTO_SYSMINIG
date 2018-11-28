@@ -1,0 +1,38 @@
+          *************** PROYECTO PROGRAM-TRACKING
+          * Agrega el nombre del programa al nuevo campo 
+          * PROGRAMA de las tablas VRDT001 a VRDT999                   
+          * en las operaciones de INSERT         
+          ************************************************
+ENVIRE    BC07EC72JB07JE72SL'CL:.,;()=¬UCM101M2SVS****M301M4SVS\\  
+IGNORE    07*\07/\07$\\
+
+TAGBEG
+ASSIGN    vSANGRIA\r0\\
+          DEBUG
+          ------------ Obtiene el nombre del Programa
+TAG       rPROGRAM-ID\r.\vPROGRAMA\\
+
+          ------------ Procesa el INSERT INTO VRDT002 (campo1,campo2,....) VALUES (ato1,dato2,....)
+TAG       rEXEC\rSQL\rINSERT\rINTO\mVRDT999\r(\\
+SETON     11\\
+
+TAG       rEXEC\rSQL\rINSERT\rINTO\mVRDT999\\
+SETON     10\\
+
+TAG   1011r)\\
+ASSIGN    vVAR\r\\
+LPAD      vVAR\vSANGRIA\r \\   Ajusta sangría con campo anterior
+INSB      01vVAR\r,PROGRAMA\\
+SETOFF    11\\
+
+TAG   10  rVALUES\r(\\
+SETON     12\\
+
+TAG   1012r)\rEND-EXEC\\
+ASSIGN    vVAR\r\\
+LPAD      vVAR\vSANGRIA\r \\   Ajusta sangría con campo anterior
+INSB      01vVAR\r,'\vPROGRAMA\r'\\
+SETOFF    10\12\\
+
+TAG   10  r,\\
+EVAL      vSANGRIA\$TPOSX(0)\r-1\\

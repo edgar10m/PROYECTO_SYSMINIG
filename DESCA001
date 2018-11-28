@@ -1,0 +1,74 @@
+#!/bin/ksh
+#----------------------------------------------------------------------
+#Shell_id:     desca001
+#Description:  desca001
+#SysViewSoft Converter Fri Sep 14 12:34:28 2018 
+#----------------------------------------------------------------------
+export procname=salida
+set -x
+set -e
+cd $local
+#  ********************************************************************          
+#   PROCESO      : DESCA001                                           *          
+#  ********************************************************************         
+#   PASO DESCA270: ADUUMAIN UNLOAD: EJECUTA LA SENTENCIA DE DESCARGA                  
+#  ********************************************************************         
+set +x
+echo "====================================================================="
+echo "STEP:desca270  UTILERIA:aduumain    ",  `date`
+echo "====================================================================="
+set -x
+export  dd_sysrec=$ptt/desa_archivo_tablapsvs_unload
+lnux    sysrec $ptt/desa_archivo_tablapsvs_unload
+export  dd_syscntl=$ptt/desa_archivo_tablapsvs_sunload
+lnux    syscntl $ptt/desa_archivo_tablapsvs_sunload
+aduumain
+unset   dd_sysrec
+unset   dd_syscntl
+detlfux *.sysin* 
+#  
+#  ===========================================================*
+#   DESCARGA DE LA TABLA TBPRU00                              *
+#  ===========================================================*
+set +x
+echo "====================================================================="
+echo "STEP:desca271  UTILERIA:ikjeft01    ",  `date`
+echo "====================================================================="
+set -x
+export  dd_sysrec00=$ptt/desa_unload_tbpru00
+lnux    sysrec00 $ptt/desa_unload_tbpru00
+ikjeft01 
+unset   dd_sysrec00
+detlfux *.sysin* 
+#  
+#  ********************************************************************         
+#   PASO DESCA272: ADUUMAIN UNLOAD: DESCARGA TABLA TABLADESCA                   
+#  ********************************************************************         
+set +x
+echo "====================================================================="
+echo "STEP:desca272  UTILERIA:aduumain    ",  `date`
+echo "====================================================================="
+set -x
+export  dd_sysrec=$ptt/desa_archivo_tabladesca_unload
+lnux    sysrec $ptt/desa_archivo_tabladesca_unload
+export  dd_syscntl=$ptt/desa_archivo_tabladesca_sunload
+lnux    syscntl $ptt/desa_archivo_tabladesca_sunload
+aduumain
+unset   dd_sysrec
+unset   dd_syscntl
+detlfux *.sysin* 
+#  
+#  ===========================================================*
+#   DESCARGA DE LA TABLA ORDENES                              *
+#  ===========================================================*
+set +x
+echo "====================================================================="
+echo "STEP:desca272  UTILERIA:ikjeft01    ",  `date`
+echo "====================================================================="
+set -x
+#  
+export  dd_sysrec00=$ptt/desa_unload_ordenes
+lnux    sysrec00 $ptt/desa_unload_ordenes
+ikjeft01 
+unset   dd_sysrec00
+detlfux *.sysin* 
