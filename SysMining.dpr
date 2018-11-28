@@ -108,7 +108,8 @@ uses
   alkBrowse in 'alkBrowse.pas' {alkFormBrowse},
   formulario in '..\SysMining_Proyect\formulario.pas' {Form1},
   FRIMER_FROME in 'FRIMER_FROME.pas' {Form2},
-  PRIMER_MODULO in 'PRIMER_MODULO.pas' {DataModule1: TDataModule};
+  PRIMER_MODULO in 'PRIMER_MODULO.pas' {DataModule1: TDataModule},
+  SEGUNDO_MODULO in 'SEGUNDO_MODULO.pas' {DataModule2: TDataModule};
 
 {$R *.res}
 begin
@@ -121,6 +122,7 @@ begin
   Application.CreateForm(TForm1, Form1);
   Application.CreateForm(TForm2, Form2);
   Application.CreateForm(TDataModule1, DataModule1);
+  Application.CreateForm(TDataModule2, DataModule2);
   Application.Run;
    //  ExitProcess(UINT(-1));
    //  exitprocess(0);
